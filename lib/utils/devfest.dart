@@ -12,7 +12,7 @@ class DevFest{
   static Color secondaryAppColor = Colors.black;
   static const String google_sans_family = "GoogleSans";
   static bool isDebugMode = true;
-
+  //j
   //* Preferences
   static SharedPreferences prefs;
-}
+}//asdfaasf
